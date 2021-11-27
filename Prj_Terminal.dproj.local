@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/25 17:55:05.000.176,=C:\Users\ppico\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/25 17:55:36.000.559,C:\Users\ppico\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\Ppiconi Softwares\WK_Teste\Terminal.dfm</Transaction>
+    <Transaction>2021/11/25 17:55:36.000.559,C:\Users\ppico\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\Ppiconi Softwares\WK_Teste\Terminal.pas</Transaction>
+    <Transaction>2021/11/25 17:55:56.000.538,C:\Users\ppico\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=D:\Ppiconi Softwares\WK_Teste\Prj_Terminal.dproj</Transaction>
+    <Transaction>2021/11/25 17:56:16.000.541,D:\Ppiconi Softwares\WK_Teste\Terminal.pas=D:\Ppiconi Softwares\WK_Teste\View\Terminal.pas</Transaction>
+    <Transaction>2021/11/25 17:56:16.000.541,D:\Ppiconi Softwares\WK_Teste\Terminal.dfm=D:\Ppiconi Softwares\WK_Teste\View\Terminal.dfm</Transaction>
+    <Transaction>2021/11/25 18:28:17.000.411,=D:\Ppiconi Softwares\WK_Teste\Unit1.pas</Transaction>
+    <Transaction>2021/11/25 18:28:53.000.433,D:\Ppiconi Softwares\WK_Teste\Unit1.pas=D:\Ppiconi Softwares\WK_Teste\Model\Produtos.pas</Transaction>
+    <Transaction>2021/11/25 18:34:14.000.826,D:\Ppiconi Softwares\WK_Teste\Model\Produtos.pas=D:\Ppiconi Softwares\WK_Teste\Model\uProdutos.pas</Transaction>
+    <Transaction>2021/11/25 23:17:40.000.312,=D:\Ppiconi Softwares\WK_Teste\Unit1.pas</Transaction>
+    <Transaction>2021/11/26 00:29:06.000.587,D:\Ppiconi Softwares\WK_Teste\Unit1.pas=</Transaction>
+    <Transaction>2021/11/26 00:29:21.000.390,=D:\Ppiconi Softwares\WK_Teste\Unit2.pas</Transaction>
+    <Transaction>2021/11/26 00:29:59.000.548,D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.dfm=D:\Ppiconi Softwares\WK_Teste\Unit2.dfm</Transaction>
+    <Transaction>2021/11/26 00:29:59.000.548,D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.pas=D:\Ppiconi Softwares\WK_Teste\Unit2.pas</Transaction>
+    <Transaction>2021/11/26 01:02:27.000.810,D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.pas=</Transaction>
+    <Transaction>2021/11/26 02:40:06.000.055,=D:\Ppiconi Softwares\WK_Teste\Unit2.pas</Transaction>
+    <Transaction>2021/11/26 02:40:23.000.665,D:\Ppiconi Softwares\WK_Teste\Unit2.dfm=D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.dfm</Transaction>
+    <Transaction>2021/11/26 02:40:23.000.665,D:\Ppiconi Softwares\WK_Teste\Unit2.pas=D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.pas</Transaction>
+    <Transaction>2021/11/26 03:13:07.000.775,D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.pas=</Transaction>
+    <Transaction>2021/11/26 03:13:29.000.693,=D:\Ppiconi Softwares\WK_Teste\Unit2.pas</Transaction>
+    <Transaction>2021/11/26 03:13:44.000.833,=D:\Ppiconi Softwares\WK_Teste\Unit2.pas</Transaction>
+    <Transaction>2021/11/26 03:13:52.000.974,D:\Ppiconi Softwares\WK_Teste\Unit2.dfm=D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.dfm</Transaction>
+    <Transaction>2021/11/26 03:13:52.000.974,D:\Ppiconi Softwares\WK_Teste\Unit2.pas=D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.pas</Transaction>
+    <Transaction>2021/11/26 03:35:46.000.620,D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.pas=</Transaction>
+    <Transaction>2021/11/26 03:52:47.000.634,=D:\Ppiconi Softwares\WK_Teste\Unit2.pas</Transaction>
+    <Transaction>2021/11/26 03:52:59.000.746,D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.pas=D:\Ppiconi Softwares\WK_Teste\Unit2.pas</Transaction>
+    <Transaction>2021/11/26 03:56:53.000.595,D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.pas=</Transaction>
+    <Transaction>2021/11/27 04:34:04.000.075,=D:\Ppiconi Softwares\WK_Teste\Unit2.pas</Transaction>
+    <Transaction>2021/11/27 04:34:20.000.767,D:\Ppiconi Softwares\WK_Teste\Unit2.pas=D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.pas</Transaction>
+    <Transaction>2021/11/27 04:34:20.000.767,D:\Ppiconi Softwares\WK_Teste\Unit2.dfm=D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.dfm</Transaction>
+    <Transaction>2021/11/27 04:39:55.000.784,D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.pas=</Transaction>
+    <Transaction>2021/11/27 05:38:56.000.044,=D:\Ppiconi Softwares\WK_Teste\Unit2.pas</Transaction>
+    <Transaction>2021/11/27 05:39:20.000.401,D:\Ppiconi Softwares\WK_Teste\Unit2.pas=D:\Ppiconi Softwares\WK_Teste\Model\uClientes.pas</Transaction>
+    <Transaction>2021/11/27 05:40:50.000.809,=D:\Ppiconi Softwares\WK_Teste\Unit2.pas</Transaction>
+    <Transaction>2021/11/27 05:40:59.000.915,D:\Ppiconi Softwares\WK_Teste\Unit2.pas=D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.pas</Transaction>
+    <Transaction>2021/11/27 06:01:37.000.468,D:\Ppiconi Softwares\WK_Teste\Controller\uConexao.pas=D:\Ppiconi Softwares\WK_Teste\Controller\uBancoDados.pas</Transaction>
+    <Transaction>2021/11/27 06:06:13.000.314,D:\Ppiconi Softwares\WK_Teste\Controller\cBancoDados.pas=D:\Ppiconi Softwares\WK_Teste\Controller\uBancoDados.pas</Transaction>
+    <Transaction>2021/11/27 11:42:30.000.723,=D:\Ppiconi Softwares\WK_Teste\Unit2.pas</Transaction>
+    <Transaction>2021/11/27 11:42:56.000.814,D:\Ppiconi Softwares\WK_Teste\Unit2.pas=D:\Ppiconi Softwares\WK_Teste\View\Pedido.pas</Transaction>
+    <Transaction>2021/11/27 11:42:56.000.814,D:\Ppiconi Softwares\WK_Teste\Unit2.dfm=D:\Ppiconi Softwares\WK_Teste\View\Pedido.dfm</Transaction>
+    <Transaction>2021/11/27 11:50:21.000.564,D:\Ppiconi Softwares\WK_Teste\View\Pedido.pas=D:\Ppiconi Softwares\WK_Teste\View\NumPedido.pas</Transaction>
+    <Transaction>2021/11/27 11:50:21.000.564,D:\Ppiconi Softwares\WK_Teste\View\Pedido.dfm=D:\Ppiconi Softwares\WK_Teste\View\NumPedido.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
